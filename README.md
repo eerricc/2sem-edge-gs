@@ -12,6 +12,7 @@ Segue codigo do projeto : https://wokwi.com/projects/415265137895265281
 ## 🛠️ Construído com
 + Wokwi IDE
 + Azure Cloud
+  - docker
   - [fiware](https://github.com/fabiocabrini/fiware)
   - python
 + Postman
@@ -28,7 +29,7 @@ Segue codigo do projeto : https://wokwi.com/projects/415265137895265281
 
 
 ## Diagrama
-
+![2sem-gs-edge-draw](https://github.com/user-attachments/assets/c6bd9b57-ac61-417d-893b-a69ea4f57123)
 >O diagrama representa uma arquitetura de sistema IoT onde os dispositivos coletam dados e os enviam para um backend robusto, que processa, armazena e disponibiliza esses dados por meio de diferentes interfaces, como um dashboard e um aplicativo móvel. Essa estrutura permite a visualização e o gerenciamento eficiente das informações coletadas.
 
 ## 📖 Mini Guide
@@ -57,9 +58,5 @@ Segue codigo do projeto : https://wokwi.com/projects/415265137895265281
 
 ### 4) Guia Completo: https://github.com/fabiocabrini/fiware
 
-## ✒️ Autores
-+ Eric Segawa Montagner RM558224
-+ João Victor Oliveira dos Santos RM557948
-+ Gabriel Lacerda Araujo RM558307
-+ Gabriel Luni Nakashima RM558096
-+ Melyssa Huang Gonçalves RM 558401
+## ✒️ Autor
++ Eric Segawa RM558224
