@@ -58,5 +58,7 @@ Segue codigo do projeto : https://wokwi.com/projects/415265137895265281
 
 ### 4) Guia Completo: https://github.com/fabiocabrini/fiware
 
+#### 5) video no youtube: https://youtu.be/ESTKmMiho9E?si=7AEHoVp3D0QcQ683
+
 ## ✒️ Autor
 + Eric Segawa RM558224
